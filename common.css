@@ -1,0 +1,207 @@
+
+            #home{
+                width: 100%;
+                margin: -1;
+                padding: -1;
+            }
+            #offer{
+                background-color: rgb(254, 205, 200);
+                width: 100%;
+                height: 60px;
+                padding-top: 10px;
+            }
+            #header1{
+                width: 100%;
+                height: 80px;
+                display: flex;
+}
+            img{
+                text-align: center;
+                padding-top: 30px;
+                width: 50%;
+                padding-left: 50px;
+            }
+            #div1{
+                width: 50%;
+                height: 100%;
+                display : flex;
+            }
+            #img{
+                width: 30%;
+        
+            }
+            #srh{
+                width: 70%;
+            }
+            #search{
+                width: 100%;
+               border: none;
+                height: 30px;
+                margin-top: 25px;
+                border-radius: 20px;
+                background-color: rgb(202, 205, 208);
+            }
+            #div2{
+                width: 50%;
+                height: 100%;
+                display: flex;
+            }
+            .div{
+                display: flex;
+                width: 25%;
+
+            }
+            .img1{
+                width: 20%;
+                height: 30%;
+            }
+            #menubar{
+                width: 100%;
+                height: 40px;
+                background-color: black;
+                
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            .fl{
+                color: white;
+                width: 8%;
+                text-align: center;
+                justify-content: center;
+                font-size: 16px;
+            }
+            #img2{
+                width: 100%;
+                height: 100%;
+            }
+            #banner{
+                width: 80%;
+                height: 500px;
+                margin-top: -30px;
+                margin-left: 80px;
+                
+            }
+            h1{
+                margin-top: 80px;
+                text-align: center;
+            }
+            p{
+                text-align: center;
+                margin-top: 0px;
+            }
+            h5{
+                text-align: center;
+                margin-bottom: 0px;
+               
+              
+            }
+            #justdropped{
+                display: flex;
+                
+                width: 70%;
+                
+                margin-left: 200px;
+            }
+            .just{
+                width: 15%;
+                margin: auto;
+            }
+            #banner2{
+                width: 70%;
+                margin-left: 160px;
+                display: flex;
+                height: 200px;
+            }
+            .ban2{
+                width: 49%;
+                margin: auto;
+            }
+            .ban2img{
+                height: 100%;
+                width: 100%;
+            }
+            .btn{
+                width: 100%;
+                height: 30px;
+                border: 3px solid black;
+                background-color: white;
+                color: black;
+                align-items: center;
+                border-radius: 15px;
+                
+                font-weight: bold;
+            }
+            #banner3{
+                width: 70%;
+                margin-left: 160px;
+                display: flex;
+                height: 400px;
+            }
+            .ban3{
+                width: 23%;
+                height: 100%;
+                margin: auto;
+            }
+            .ban3img{
+                width: 100%;
+                height: 100%;
+            }
+            #banner4{
+                width: 70%;
+                margin-left: 160px;
+                
+                height: 150px;
+                margin-top: 30px;
+            }
+            .banimg4{
+                width: 100%;
+                height: 100%;
+            }
+            #banner5{
+                background-color: rgb(191, 190, 190);
+                width: 100%;
+                height:30px;
+                margin-top: 50px;  
+            }
+            #footer{
+                width: 100%;
+                height: 800px;
+                background-color: black;
+            }
+            #ftr1{
+                width: 100%;
+                height: 100px;
+                display: flex;
+                border: 1px solid white;
+            }
+            .ftrs1{
+                width: 16%;
+                height: 30px;
+                margin: auto;
+                border: 1 px solid white;
+                padding-bottom: 20px;
+                display: inline-block;
+            }
+            .ftrimg{
+                width: 15%;
+                height: 100%;
+                padding-bottom: 20px;
+                display: inline-block;
+            }
+            
+            .ftrs1h{
+                color: white;
+            }
+            #ftr2{
+                border: 3px solid white;
+                display: grid;
+                grid-template-columns:repeat(4,100px) ;
+                grid-template-rows: repeat(15, 10px);
+                border: 2px solid white;
+                margin: auto;
+            }
+            a{
+                text-decoration: none;
+                color: white;
+            }
